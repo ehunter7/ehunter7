@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=_highbeam&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=_highbeam&redirect=true)-->
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=_highbeam&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=_highbeam&cover_image=true&theme=novatorem)]]
+[![https://spotify-github-profile.vercel.app/api/view.svg?uid=_highbeam&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=_highbeam&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=_highbeam&redirect=true)
 
 ---
 
