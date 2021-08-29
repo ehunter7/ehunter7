@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
+## GitHub Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=ehunter7&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehunter7&langs_count=10&card_width=495&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## Technology
 
@@ -61,6 +70,30 @@ Here are some ideas to get you started:
 
 #### View My Resume
 
-![Resume QR Code](img/resume-qr-200.png)
+![Resume QR Code]()
 
 ---
+
+### Currently on rotation:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12484067&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12484067&redirect=true)
+
+---
+
+## Let's connect!
+
+[![Portfolio](https://img.shields.io/badge/portfolio-joshallan.dev-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837)](https://joshallan.dev/)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-joshuamallan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=1ABC9B&labelColor=001837)](https://www.linkedin.com/in/joshuamallan/)
+
+[![Resume](https://img.shields.io/badge/Resume-joshuamallan-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=1ABC9B&labelColor=001837)](https://drive.google.com/file/d/1S4_u5BLspZWVqAkhJdZBl2cTXRRApXUr/view?usp=sharing)
+
+[![Portfolio](https://img.shields.io/badge/Email-allan.josh07@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=1ABC9B&labelColor=001837)](mailto:allan.josh07@gmail.com)
+
+[![Spotify](https://img.shields.io/badge/spotify-Josh_Allan-informational?style=for-the-badge&logo=spotify&logoColor=white&color=1ABC9B&labelColor=001837)](https://open.spotify.com/user/12484067?si=xhMwjlhjTlKNUCmltYAKWA)
+
+[![RVAGRUBS](https://img.shields.io/badge/Instagram-RVAGRUBS-informational?style=for-the-badge&logo=instagram&logoColor=white&color=1ABC9B&labelColor=001837)](https://www.instagram.com/rvagrubs)
+
+<br />
+
+<br />
