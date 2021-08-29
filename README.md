@@ -76,8 +76,7 @@ Here are some ideas to get you started:
 
 ### Currently on rotation:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=_highbeam&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=_highbeam&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 ## Let's connect!
