@@ -1,10 +1,10 @@
-### Hi there,, my name is [Eric Hunter][website] <img src="img/wave.gif" width="30px">.
+### Hi there,, my name is ![Eric Hunter][https://ehunter7.github.io/react-portfolio/] 👋.
 
 <!--
 **ehunter7/ehunter7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- 👋
+ <img src="img/wave.gif" width="30px">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
