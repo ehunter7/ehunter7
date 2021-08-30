@@ -1,10 +1,12 @@
 ### Hi there, my name is [Eric Hunter](https://ehunter7.github.io/react-portfolio/) 👋.
 
+[![Header](Assets/hero-image.png)](https://ehunter7.github.io/react-portfolio/)
+
 <!--
 **ehunter7/ehunter7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- <img src="img/wave.gif" width="30px">
+ <img src="" width="30px">
 
 -->
 - 🏫 University of California, Riverside Coding Bootcamp (Full-stack, MERN) alum
