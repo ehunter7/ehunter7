@@ -1,6 +1,6 @@
 <!--0### Hi there, my name is [Eric Hunter](https://ehunter7.github.io/react-portfolio/) 👋.-->
 
-[![Header](Assets/hero-image.png)](https://ehunter7.github.io/react-portfolio/)
+[![Header](Assets/hero-image.png)](https://www.erichunter.dev)
 
 <!--
 **ehunter7/ehunter7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
