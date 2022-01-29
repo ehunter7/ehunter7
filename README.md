@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 #### Languages
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
-![C++](https://img.shields.io/badge/Code-cpp-informational?style-for-the-badge&logo=cpp&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![C++](https://img.shields.io/badge/Code-cplusplus-informational?style-for-the-badge&logo=cplusplus&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 
