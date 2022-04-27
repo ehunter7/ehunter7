@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-![snake gif](https://github.com/ehunter7/ehunter7/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/ehunter7/ehunter7/blob/output/github-contribution-grid-snake.svg)
 
 ## GitHub Stats
 
