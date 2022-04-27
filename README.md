@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ---
 
+![snake gif](https://github.com/ehunter7/ehunter7/blob/output/github-contribution-grid-snake.gif)
+
 ## GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ehunter7&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
