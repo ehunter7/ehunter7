@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
-
+![Bitbucket](https://img.shields.io/badge/Tech-Bitbucket-informational?style=for-the-badge&logo=Bitbucket&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ---
 <!--
 #### View My Resume
