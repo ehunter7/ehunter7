@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 
 #### Stack
 
+![Tailwind](https://img.shields.io/badge/Code-Tailwind-informational?style=for-the-badge&logo=Tailwind&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![AlpineJS](https://img.shields.io/badge/Code-AlpineJS-informational?style=for-the-badge&logo=AlpineJS&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=Laravel&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Livewire](https://img.shields.io/badge/Code-Livewire-informational?style=for-the-badge&logo=Livewire&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![MySQL](https://img.shields.io/badge/Data-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![Express](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
@@ -44,6 +49,7 @@ Here are some ideas to get you started:
 
 #### Languages
 
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=PHP&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![Cplusplus](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
@@ -51,13 +57,16 @@ Here are some ideas to get you started:
 
 #### Libraries & Frameworks
 
-![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
-![Express](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
-![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=Laravel&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![Redux](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Livewire](https://img.shields.io/badge/Code-Livewire-informational?style=for-the-badge&logo=Livewire&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![Node](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 ![npm](https://img.shields.io/badge/Tech-npm.js-informational?style=for-the-badge&logo=npm.js&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Express](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
+![Tailwind](https://img.shields.io/badge/Code-Tailwind-informational?style=for-the-badge&logo=Tailwind&logoColor=white&color=1d3557&labelColor=001837) &nbsp;
 
 #### Data
 
