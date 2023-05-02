@@ -9,8 +9,9 @@ Here are some ideas to get you started:
  <img src="" width="30px">
 
 -->
+- 🏫 Bachelors Degree in Computer Science
 - 🏫 University of California, Riverside Coding Bootcamp (Full-stack, MERN) alum
-- 🏫 Currently pursuing a Computer Science degree
+- 🏫 Associate Degree in Computer Science
 - 👔 Currently working as a Software Development Engineer
 - 🌱 I’m currently learning Laravel
 <!--- 🔭 I’m currently working on ...
