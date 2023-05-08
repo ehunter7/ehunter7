@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🏫 Bachelors Degree in Computer Science
 - 🏫 University of California, Riverside Coding Bootcamp (Full-stack, MERN) alum
 - 🏫 Associate Degree in Computer Science
-- 👔 Currently working as a Software Development Engineer
+- 👔 I am a Software Development Engineer
 - 🌱 I’m currently learning Laravel
 <!--- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
